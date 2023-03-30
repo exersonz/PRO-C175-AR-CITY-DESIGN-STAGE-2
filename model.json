@@ -1,0 +1,90 @@
+{
+    "0": {
+        "barcode_value": 0,
+        "model_name": "base",
+        "model_url": "#",
+        "position": {"x": 0, "y": 1, "z": 0},
+        "rotation": {"x": 180, "y": 0, "z": 0},
+        "color": "#795548",
+        "width": 19,
+        "height": 15
+    },
+    "1": {
+        "barcode_value": 1,
+        "model_name": "road",
+        "model": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/model_gltf_6YmjcoM2ebx_6dQpF5pzTPc/model.gltf",
+        "position": {"x": 0, "y": 6, "z": 0},
+        "rotation": {"x": 0, "y": -90, "z": 0},
+        "scale": {"x": 3, "y": 3, "z": 3},
+        "placement_position": {"x": 1.2, "y": -2.2},
+        "placement_rotation": {"x": 0, "y": -90, "z": 0},
+        "placement_scale": {"x": 3, "y": 3, "z": 3}
+        
+    },
+    "2": {
+        "barcode_value": 2,
+        "model_name": "sun",
+        "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/sun_model/sun_02.gltf",
+        "position": {"x": 5, "y": 10, "z": -3},
+        "rotation": {"x": 0, "y": -90, "z": -90},
+        "scale": {"x": 0.005, "y": 0.005, "z": 0.005},
+        "placement_position": {"x": -0.9, "y": 6.4, "z": -3.4},
+        "placement_rotation": {"x": 0, "y": -90, "z": 0},
+        "placement_scale": {"x": 0.004, "y": 0.004, "z": 0.004}
+    },
+    "3": {
+        "barcode_value": 3,
+        "model_name": "car",
+        "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/car_model/Convertible.gltf",
+        "position": {"x": 3, "y": 10, "z": -2},
+        "rotation": {"x": -180, "y": -90, "z": 90},
+        "scale": {"x": 0.4, "y": 0.4, "z": 0.4},
+        "placement_position": {"x": 1.6, "y": 1.1, "z": 5.2},
+        "placement_rotation": {"x": 0, "y": -90, "z": 0},
+        "placement_scale": {"x": 0.3, "y": 0.3, "z": 0.3}
+    },
+    "4": {
+        "barcode_value": 4,
+        "model_name": "building-1",
+        "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/building_2/Apartment.gltf",
+        "position": {"x": -5, "y": 10, "z": -5},
+        "rotation": {"x": 270, "y": 0, "z": 180},
+        "scale": {"x": 0.15, "y": 0.15, "z": 0.15},
+        "placement_position": {"x": -5, "y": 1.1, "z": 5.2},
+        "placement_rotation": {"x": 0, "y": -90, "z": 90},
+        "placement_scale": {"x": 0.03, "y": 0.03, "z": 0.03}
+    },
+    "5": {
+        "barcode_value": 5,
+        "model_name": "building-2",
+        "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/building_apartment_2/scene.gltf",
+        "position": {"x": -2, "y": 4, "z": 0},
+        "rotation": {"x": -90, "y": -90, "z": 90},
+        "scale": {"x": 0.003, "y": 0.003, "z": 0.003},
+        "placement_position": {"x": -2, "y": 1.1, "z": 5.2},
+        "placement_rotation": {"x": 0, "y": -90, "z": 0},
+        "placement_scale": {"x": 0.03, "y": 0.03, "z": 0.03}
+    },
+    "6": {
+        "barcode_value": 6,
+        "model_name": "building-3",
+        "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/building_2/Apartment.gltf",
+        "position": {"x": 0, "y": 10, "z": -5},
+        "rotation": {"x": 270, "y": 0, "z": 180},
+        "scale": {"x": 0.15, "y": 0.15, "z": 0.15},
+        "placement_position": {"x": 0, "y": 1.1, "z": 5.2},
+        "placement_rotation": {"x": 0, "y": -90, "z": 90},
+        "placement_scale": {"x": 0.03, "y": 0.03, "z": 0.03}
+    },
+    "7": {
+        "barcode_value": 7,
+        "model_name": "tree",
+        "model_url": "https://raw.githubusercontent.com/whitehatjr/three-d-models/main/tree/OakTree.gltf",
+        "position": {"x": 3, "y": 8, "z": -5},
+        "rotation": {"x": -180, "y": -90, "z": 90},
+        "scale": {"x": 0.3, "y": 0.3, "z": 0.3},
+        "placement_position": {"x": 1.6, "y": 1.1, "z": 5.2},
+        "placement_rotation": {"x": 0, "y": -90, "z": 0},
+        "placement_scale": {"x": 0.3, "y": 0.3, "z": 0.3}
+    }
+}
